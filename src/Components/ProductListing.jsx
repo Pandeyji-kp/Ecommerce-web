@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react'
-import Header from './Header'
 import { useParams } from 'react-router-dom'
 import axios from 'axios';
 import ProductCard from './ProductCard';
