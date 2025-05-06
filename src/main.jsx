@@ -8,7 +8,7 @@ import './style.css';
 
 import ProductListing from './Components/ProductListing'
 import ProductDetail from './Components/ProductDetail'
-import Rootlayout from './Components/Rootlayout';
+import Rootlayout from './Components/RootLayout.jsx';
 import Context from './ContextAPI/Context';
 import CardListing from './Components/CardListing';
 
